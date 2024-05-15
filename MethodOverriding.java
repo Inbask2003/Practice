@@ -1,3 +1,5 @@
+// Except the Main method all other methods are overriden
+
 public class MethodOverriding 
 {
     public static void main(String[] args) 
