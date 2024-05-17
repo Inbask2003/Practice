@@ -19,5 +19,6 @@ public class Interface implements Face
 interface Face
 {
     int a = 10;
-    public abstract void show();    
+    public abstract void show();
+
 }

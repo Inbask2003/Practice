@@ -1,1 +1,10 @@
 learn and practice from a scratch...
+
+Core Java
+OOPs Concept
+Data Structures & Algorithms 
+Colletions
+Thread
+Stream API
+JDBC
+JSP & Servlet
