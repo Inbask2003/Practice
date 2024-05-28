@@ -1,0 +1,7 @@
+fork in github
+
+it is used to contribute someone's repository without contributer access
+
+it is used to open someone's repository and give your contribution without any permission 
+
+but the repository owner view your pull request then he accept or reject based on his wish
